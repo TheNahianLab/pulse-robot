@@ -10,7 +10,7 @@ const Footer = () => {
           </a>{" "}
           BUILD WARS design, built entirely with Lovable by{" "}
           <a href="https://x.com/rezaul_arif" target="_blank" rel="noopener noreferrer" className="text-pulse-500 hover:underline">
-            Rezaul Arif
+            nahian
           </a>
         </p>
       </div>
